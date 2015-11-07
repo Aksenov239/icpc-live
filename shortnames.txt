@@ -1,0 +1,128 @@
+Al Akhawayn University ->AUI
+Amrita School of Engineering, Kollam ->Amrita SE Kollam
+Beihang University ->BUAA
+Beijing Institute of Technology ->BIT
+Beijing Jiaotong University ->Beijing Jiaotong U
+Beijing Normal University ->BNU
+Belarusian State Economic University ->BSEU
+Belarusian State University ->Belarusian SU
+Belarusian State University of Informatics and Radioelectronics ->BSUIR
+Carleton College ->Carleton
+Carnegie Mellon University ->Carnegie Mellon
+Charles University in Prague ->Charles U - Prague
+Cornell University ->Cornell
+ENSA Marrakech, UCA ->ENSA Marrakech, UCA
+Escuela Superior De Computo Instituto Politecnico Nacional ->ESCOM IPN
+Arab Academy for Science and Technology (Alexandria) ->AAST Alexandria
+ETH Zürich ->ETH Zürich
+Facultad de Ciencias Exactas-Universidad Nacional de Rosario ->FCEIA-UNR
+Faculty of Computer and Information Sciences, Ain Shams University ->FCIS Ain Shams
+Federal University of Minas Gerais ->UFMG
+Free University of Tbilisi ->Free U of Tbilisi
+Friedrich-Alexander-University Erlangen-Nuremberg ->FAU
+Fudan University ->Fudan U
+Fuzhou University ->Fuzhou U
+Georgia Institute of Technology ->Georgia Tech
+German University in Cairo ->German Uni Cairo
+Hangzhou Dianzi University ->Hangzhou Dianzi U
+Harvard University ->Harvard
+Huazhong University of Science & Technology ->HUST
+Indian Institute of Technology - Bombay ->IIT Bombay
+Indian Institute of Technology - Delhi ->IIT Delhi
+Indian Institute of Technology - Kharagpur ->IIT Kharagpur
+Indian Institute of Technology - Madras ->IIT Madras
+Indian Institute of Technology - Roorkee ->IIT Roorkee
+International Institute of Information Technology - Hyderabad ->IIIT Hyderabad
+Iowa State University ->Iowa State U
+ITESM Campus Monterrey ->ITESM Monterrey
+Jagiellonian University in Krakow ->Jagiellonian
+Jahangirnagar University ->JU
+Jilin University ->Jilin U
+KAIST ->KAIST
+Kazan (Volga Region) Federal University ->Kazan FU
+Korea University ->Korea U
+KTH - Royal Institute of Technology ->KTH
+Kyoto University ->Kyoto U
+Lviv National University ->Lviv NU
+Massachusetts Institute of Technology ->MIT
+Cairo University - Faculty of Computers and Information ->Cairo-FCI
+Messiah College ->Messiah College
+Moscow Aviation Institute ->MAI
+Moscow Institute of Physics & Technology ->MIPT
+Moscow State University ->Moscow SU
+Nanyang Technological University ->Nanyang TU
+National Research University Higher School of Economics ->NRU-HSE
+National Taiwan University ->National Taiwan U
+National University of Defense Technology ->NUDT
+National University of Science and Technology "MISiS" ->MISiS
+National University of Singapore ->NU Singapore
+Nazarbayev University ->Nazarbayev U
+Northwestern University ->Northwestern
+Odessa National Mechnikov University ->Odessa NU
+Peking University ->Peking U
+Princeton University ->Princeton
+Rice University ->Rice
+Saint Petersburg Academic University – Nanotechnology Research and Education Centre RAS ->St. Petersburg AU
+Saratov State University ->Saratov State U
+Seoul National University ->Seoul National U
+Shahid Beheshti University ->Beheshti
+Shahjalal University of Science and Technology ->SUST
+Shanghai Jiao Tong University ->SJTU
+Shanghai University ->SHU
+Sharif University of Technology ->Sharif UT
+South China Agricultural University ->SCAU
+South China University of Technology ->South China UT
+St. Petersburg National Research University of IT, Mechanics and Optics ->ITMO University
+St. Petersburg State University ->St. Petersburg SU
+Stanford University ->Stanford
+Taras Shevchenko Kiev National University ->TS Kiev NU
+The Australian National University ->ANU
+Faculty of Engineering, Ain Shams University ->FE-ASU
+The University of Tokyo ->U Tokyo
+The University of Western Australia ->UWA
+Tishreen University ->Tishreen
+Tsinghua University ->Tsinghua
+Universidad Autónoma de Aguascalientes ->UAA
+Universidad Católica San Pablo ->UCSP
+Universidad de Buenos Aires - FCEN ->U Buenos Aires
+Universidad de La Habana ->UH
+Universidad de los Andes, Colombia ->Uniandes
+Universidad de Oriente - Sede Antonio Maceo ->UO-SAM
+Universidad Nacional de Colombia - Bogotá ->UNAL Bogotá
+Universidad Privada de Santa Cruz de la Sierra ->UPSA
+Universidad Simón Bolívar ->USB
+Universidade de São Paulo ->USP
+Universidade Estadual de Campinas ->UNICAMP
+Universidade Federal de Campina Grande ->UFCG
+Universidade Federal do Rio de Janeiro ->UF Rio de Janeiro
+Universitat Politècnica de Catalunya ->UP Catalunya
+University of Bucharest ->Bucharest
+University of Calgary ->U Calgary
+University of California at Berkeley ->UC Berkeley
+University of California Los Angeles ->UCLA
+University of Cape Town ->U Cape Town
+University of Central Florida ->U Central Florida
+University of Chicago ->U Chicago
+University of Copenhagen ->DIKU
+University of Electronic Science and Technology of China ->UESTC
+University of Engineering and Technology - VNU ->UET -VNU
+University of Illinois at Urbana-Champaign ->U Illinois at U-C
+University of Indonesia ->U of Indonesia
+University of Maryland ->U Maryland
+The American University in Cairo ->AUC
+University of Michigan at Ann Arbor ->U Michigan
+University of Minnesota - Twin Cities ->U Minnesota - TC
+University of New South Wales ->U New South Wales
+University of Science and Technology of China ->UST China
+University of Southern California ->USC
+University of Tehran ->U Tehran
+University of Tsukuba ->Univ. of Tsukuba
+University of Warsaw ->U Warsaw
+University of Waterloo ->U Waterloo
+University of Wisconsin - Madison ->UW - Madison
+University of Wroclaw ->U Wroclaw
+University of Zagreb ->Zagreb
+Virginia Tech ->Virginia Tech
+Yazd University of Iran ->Yazd University
+Zhejiang SCI-TECH University ->ZSTU
+Zhejiang University ->Zhejiang U
